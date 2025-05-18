@@ -1,5 +1,7 @@
 # Taller sobre Operadores de Programación Reactiva
 
+## Hecho por: Santiago Bazzani Rincon
+
 ## Objetivo
 
 El objetivo de este taller es aprender a utilizar al menos cinco operadores de programación reactiva utilizando RxJava o Reactor. Implementaremos ejemplos prácticos que muestran cómo estos operadores transforman y manejan flujos de datos de manera reactiva. Además, los estudiantes crearán su propio ejemplo para aplicar lo aprendido.
